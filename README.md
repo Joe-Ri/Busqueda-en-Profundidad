@@ -1,5 +1,4 @@
-# Búsqueda en Profundidad (DFS) - Resolución de Problemas mediante Búsquedas
-
+# Búsqueda en Profundidad (DFS) 
 ## Enunciado del Problema
 
 Se debe encontrar un camino desde la posición inicial `i` hasta la posición destino `e` en una cuadrícula de 6 filas por 5 columnas. El personaje puede moverse únicamente en dirección **arriba, abajo, izquierda y derecha**, pero no puede atravesar obstáculos representados en el mapa.&#x20;
